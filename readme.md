@@ -51,8 +51,5 @@ Ha még azt is szeretnénk, hogy ellenőrizze, hogy prím-e, akkor azt így tudj
       return true
     }
 
-<script>
-  function promptWithMersenne() { number = 2**prompt("Mit szeretnél megnézni?")-1; for (var i=2; i<number; i++) {if (number%i == 0) {prompt(`A/Az ${number} nem Mersenne-prím!`)}}; return prompt(`A/Az ${number} egy Mersenne-prím!`) }
-</script>
 
 ## Hogy leelenőrizz egy számot, hogy Mersenne-príme, kattints <b onclick="promptWithMersenne()">ide</b>.
