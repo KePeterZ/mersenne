@@ -52,4 +52,4 @@ Ha még azt is szeretnénk, hogy ellenőrizze, hogy prím-e, akkor azt így tudj
     }
 
 
-## Hogy leelenőrizz egy számot, hogy Mersenne-príme, kattints <b onclick="promptWithMersenne()">ide</b>.
+## Hogy leelenőrizz egy számot, hogy Mersenne-príme, kattints [`ide`](https://kepeterz.github.io/mersenne/mersenne.html).
