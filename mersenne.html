@@ -1,0 +1,23 @@
+<script>
+  function promptWithMersenne(number) {
+    for (var i=2; i<number; i++) {
+      if (number%i == 0) {
+        return false
+      }
+    }
+    return true
+  }
+
+  function mersennehtml() {
+    number = document.getElementById("prim").value
+    if (number == "") { return false }
+    isPrime = promptWithMersenne(number)
+    if (isPrime) {
+      document.body.innerHTML += `<p style="color:green">${number} egy Mersenni-prím szám!</p>`
+    } else {
+      document.body.innerHTML += `<p style="color:red">${number} nem Mersenni-prím szám!</p>`
+    }
+  }
+</script>
+
+<input id="prim" placeholder="Ide írd a számot!"></input><button onclick="mersennehtml()">Ellenőrizd!</button>
