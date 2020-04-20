@@ -11,7 +11,7 @@ Mersenne 16 éves korától a La Fléche-i Jezsuita kollégiumban tanult, nem so
 
 ## Publikációi
 
-1623-ban adta ki a *Quaestiones celeberrime in Genesim* című művét, amit 1625-ben *La vérité des sciences* követett 1625-ben. Ezekben az ortodox gondolkodást védte úgy, hogy két külön dologként kezelte a természet, és az esszenciáját a dolgoknak (amiket csak isten ismerhet), és az ember által észrevehető tényeket.  
+1623-ban adta ki a *Quaestiones celeberrime in Genesim* című művét, amit 1625-ben *La vérité des sciences* követett. Ezekben az ortodox gondolkodást védte úgy, hogy két külön dologként kezelte a természet, és az esszenciáját a dolgoknak (amiket csak isten ismerhet), és az ember által észrevehető tényeket.  
 1626 után Mersenne publikációi a matematika tudományával foglalkoztak, azon belül az Asztronómiával, és az optikával. 
 
 ## Nézetei
